@@ -15,21 +15,26 @@ A website for a small family-owned bakery that has been providing delicious cake
 - Bootstrap
 - JavaScript
 
-##How to run the project
+## How to run the project
 Clone the repository by running git clone https://github.com/raghavt5/The-Pastry-Palace.git
 Open the index.html file in your browser to view the website
 
-##Deployment
+## Deployment
 The website is deployed on Github Pages and can be accessed at https://raghavt5.github.io/The-Pastry-Palace/
 
-##Contributing
+## Additional Information
+- The website is fully responsive and is optimized for all screen sizes
+- The website uses Google fonts for typography
+- The website uses Bootstrap for styling and layout
+
+## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
-#Note
+## Note
 This is a static website and the contact form does not actually submit the form data.
 
-##Author
+## Author
 Raghav T.
 
-##License
+## License
 This project is licensed under the MIT License.
