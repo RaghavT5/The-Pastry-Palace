@@ -1,0 +1,119 @@
+/* CSS for styling and responsive design */
+
+header,
+footer {
+  background-color: #f5f5f5;
+  padding: 1em;
+  text-align: center;
+}
+
+body {
+  background-image: url("assets/background/pattern2.png");
+  background-repeat: repeat;
+  background-size: auto;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav li {
+  float: left;
+}
+
+nav a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: grey;
+}
+
+main {
+  padding: 1em;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.nav-link {
+  font-family: "Montserrat";
+}
+
+#about {
+  padding-top: 30px;
+}
+
+#services {
+  padding-top: 20px;
+}
+
+#contact {
+  padding-top: 50px;
+}
+
+.title {
+  font-size: 3.7em;
+  font-family: "Great Vibes", cursive;
+  font-weight: 500;
+}
+h2 {
+  font-size: 2.3em;
+  font-family: "Great Vibes", cursive;
+  font-weight: 500;
+}
+
+h3 {
+  font-size: 2em;
+  font-family: "Great Vibes", cursive;
+  font-weight: 500;
+}
+
+p {
+  font-family: "Montserrat";
+}
+
+.row {
+  padding-bottom: 1rem;
+}
+
+.card {
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+}
+
+.footer {
+  font-family: "Montserrat";
+}
+
+/* Add padding between the "Services" cards on mobile devices */
+@media (max-width: 767px) {
+  .card {
+    margin-bottom: 20px;
+  }
+}
+
+/* media queries for responsive design */
+@media (max-width: 600px) {
+  nav a {
+    display: none;
+  }
+  nav ul {
+    background-color: inherit;
+  }
+  nav li {
+    width: 100%;
+    text-align: center;
+  }
+  nav li:hover {
+    background-color: #f5f5f5;
+  }
+}
