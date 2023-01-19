@@ -20,7 +20,7 @@ A website for a small family-owned bakery that has been providing delicious cake
 - Open the index.html file in your browser to view the website
 
 ## Deployment
-The website is deployed on Github Pages and can be accessed at https://raghavt5.github.io/The-Pastry-Palace/
+The website is deployed on Netlify and can be accessed at https://the-pastry-palace.netlify.app/
 
 ## Additional Information
 - The website is fully responsive and is optimized for all screen sizes
