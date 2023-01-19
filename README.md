@@ -16,8 +16,8 @@ A website for a small family-owned bakery that has been providing delicious cake
 - JavaScript
 
 ## How to run the project
-Clone the repository by running git clone https://github.com/raghavt5/The-Pastry-Palace.git
-Open the index.html file in your browser to view the website
+- Clone the repository by running git clone https://github.com/raghavt5/The-Pastry-Palace.git
+- Open the index.html file in your browser to view the website
 
 ## Deployment
 The website is deployed on Github Pages and can be accessed at https://raghavt5.github.io/The-Pastry-Palace/
